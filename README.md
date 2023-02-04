@@ -2,7 +2,7 @@
 
 A very simple recipe server that imitates the RecipePuppy API, returning a response payload formatted as JSON.  
 
-This recipe server can be used in place of [RecipePuppy.com](RecipePuppy.com) when running code from the Manning book `Testing Javascript Applications`.  I created this server because RecipePuppy on the Internet was not working.
+This recipe server can be used in place of [RecipePuppy.com](http://www.recipepuppy.com/) when running code from the Manning book `Testing Javascript Applications`.  I created this server because RecipePuppy on the Internet was not working.
 
 Run the server:
 ```
